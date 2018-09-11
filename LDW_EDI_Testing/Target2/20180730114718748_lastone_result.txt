@@ -1,0 +1,1 @@
+Not found matched EDI field in Email: BEG_02 at line 4

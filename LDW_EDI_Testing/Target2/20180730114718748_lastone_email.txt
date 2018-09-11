@@ -1,0 +1,351 @@
+Trading Partner ID: 007347602DCO,  Company Name: 7-Eleven Your ID:0574540190000T Message Type: 850
+ 
+BEG - Beginning Segment for Purchase Order
+BEG_01_353    :Transaction Set Purpose Code       =01
+BEG_02_92     :Purchase Order Type Code           =SA
+BEG_03_324    :Purchase Order Number              =1902290
+BEG_05_373    :Date                               =20180409
+ 
+CUR - Currency
+CUR_01_98     :Entity Identifier Code             =BY
+CUR_02_100    :Currency Code                      =USD
+ 
+REF - Reference Information
+REF_01_128    :Reference Identification Qualifier =ZZ
+REF_02_127    :Reference Identification           =FTL
+REF_03_352    :Description                        =Full Truck Load
+ 
+FOB - F.O.B. Related Instructions
+FOB_01_146    :Shipment Method of Payment         =FO
+FOB_02_309    :Location Qualifier                 =OR
+ 
+ITD - Terms of Sale/Deferred Terms of Sale
+ITD_01_336    :Terms Type Code                    =01
+ITD_02_333    :Terms Basis Date Code              =3
+ITD_07_386    :Terms Net Days                     =10
+ITD_11_342    :Percent of Invoice Payable         =100
+ 
+TD5 - Carrier Details (Routing Sequence/Transit Time)
+TD5_04_91     :Transportation Method/Type Code    =H
+ 
+N1 - Party Identification
+N1_01_98      :Entity Identifier Code             =SF
+N1_02_93      :Name                               =WHITEWAVE FOODS.
+N1_03_66      :Identification Code Qualifier      =92
+N1_04_67      :Identification Code                =SEDCINDUSTRY
+ 
+N3 - Party Location
+N3_01_166     :Address Information                =18275 ARENTH AVE
+ 
+N4 - Geographic Location
+N4_01_19      :City Name                          =CITY OF INDUSTRY
+N4_02_156     :State or Province Code             =CA
+N4_03_116     :Postal Code                        =91748
+N4_04_26      :Country Code                       =US
+ 
+N1 - Party Identification
+N1_01_98      :Entity Identifier Code             =CA
+N1_02_93      :Name                               =NFI INTERACTIVE LOGISTICS LLC
+N1_03_66      :Identification Code Qualifier      =92
+N1_04_67      :Identification Code                =209356
+N1_01_98      :Entity Identifier Code             =ST
+N1_02_93      :Name                               =DLA
+N1_03_66      :Identification Code Qualifier      =92
+N1_04_67      :Identification Code                =DLA
+ 
+N3 - Party Location
+N3_01_166     :Address Information                =12330 Lakeland Rd
+ 
+N4 - Geographic Location
+N4_01_19      :City Name                          =Santa Fe Springs
+N4_02_156     :State or Province Code             =CA
+N4_03_116     :Postal Code                        =90670
+N4_04_26      :Country Code                       =US
+ 
+PER - Administrative Communications Contact
+PER_1_01_366  :Contact Function Code              =RD
+PER_1_03_365  :Communication Number Qualifier     =TE
+PER_1_04_364  :Communication Number               =0000000000
+PER_1_01_366  :Contact Function Code              =BD
+PER_1_02_93   :Name                               =Henry Hilla
+PER_1_03_365  :Communication Number Qualifier     =EA
+PER_1_04_364  :Communication Number               =Henry.Hilla@7-11.com
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =1
+PO1_02_380    :Quantity                           =480
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =10.6272
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271029130
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000708
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230208
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =IDReesesPntBtrCupCrmr1/2z288ct
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =5101.056
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =2
+PO1_02_380    :Quantity                           =480
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =10.6272
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271009323
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000543
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230296
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =ID CaramelMacchiato 1/2z 288ct
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =5101.056
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =3
+PO1_02_380    :Quantity                           =140
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =9.295
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271025934
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000551
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230326
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =ID Nondairy H&H PC 384ct
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =1301.3
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =4
+PO1_02_380    :Quantity                           =160
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =10.6304
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271028324
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000552
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230562
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =ID Cinnabon Crmr 1/2z288ct
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =1700.864
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =5
+PO1_02_380    :Quantity                           =800
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =15.269
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271017519
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000536
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230604
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =Bulk Creamer Fr Vanilla 2.5 gl
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =12215.2
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =6
+PO1_02_380    :Quantity                           =160
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =10.6309
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271027129
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000545
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230640
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =IDColdStoneSwtCrmCrmr1/2z288ct
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =1700.944
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =7
+PO1_02_380    :Quantity                           =240
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =12.8117
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271017533
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000537
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230646
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =Bulk Creamer Whole Milk 2.5 gl
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =3074.808
+ 
+PO1 - Baseline Item Data
+PO1_01_350    :Assigned Identification            =8
+PO1_02_380    :Quantity                           =160
+PO1_03_355    :Unit or Basis for Measurement Code =CA
+PO1_04_212    :Unit Price                         =10.6304
+PO1_06_235    :Product/Service ID Qualifier       =UK
+PO1_07_234    :Product/Service ID                 =00041271021097
+PO1_08_235    :Product/Service ID Qualifier       =PI
+PO1_09_234    :Product/Service ID                 =90000547
+PO1_10_235    :Product/Service ID Qualifier       =IN
+PO1_11_234    :Product/Service ID                 =230946
+ 
+PID - Product/Item Description
+PID_1_01_349  :Item Description Type              =F
+PID_1_05_352  :Description                        =ID HersheysChocCarml1/2z 288ct
+ 
+DTM - Date/Time Reference
+DTM_6_01_374  :Date/Time Qualifier                =010
+DTM_6_02_373  :Date                               =20180430
+DTM_6_01_374  :Date/Time Qualifier                =074
+DTM_6_02_373  :Date                               =20180501
+ 
+QTY - Quantity Information
+QTY_1_01_673  :Quantity Qualifier                 =T5
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =MO
+QTY_1_02_380  :Quantity                           =1
+QTY_1_01_673  :Quantity Qualifier                 =ZZ
+QTY_1_02_380  :Quantity                           =1
+ 
+AMT - Monetary Amount Information
+AMT_1_01_522  :Amount Qualifier Code              =1
+AMT_1_02_782  :Monetary Amount                    =1700.864
+ 
+CTT - Transaction Totals
+CTT_01_354    :Number of Line Items               =8
+ 
+AMT - Monetary Amount Information
+AMT_2_01_522  :Amount Qualifier Code              =UI
+AMT_2_02_782  :Monetary Amount                    =31896.092

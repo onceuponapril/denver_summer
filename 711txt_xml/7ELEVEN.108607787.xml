@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<ZCORORDERS05>
+  <IDOC BEGIN="1">
+    <EDI_DC40 SEGMENT="1">
+      <DIRECT>2</DIRECT>
+      <DOCREL>750</DOCREL>
+      <STATUS>51</STATUS>
+      <IDOCTYP>51</IDOCTYP>
+      <CIMTYP>51</CIMTYP>
+      <MESTYP>ZUS4ORDERS_10</MESTYP>
+      <CREDAT>20180529</CREDAT>
+      <CRETIM>154518</CRETIM>
+      <SNDPOR>EDC_EDICC</SNDPOR>
+      <SNDPRT>KU</SNDPRT>
+      <SNDPRN>US4_DUMMY</SNDPRN>
+      <RCVPOR>SAPQ02</RCVPOR>
+      <RCVPRT>LS</RCVPRT>
+	  <RCVPRN>Q02CLNT104</RCVPRN>
+    </EDI_DC40>
+    <E1EDK01 SEGMENT="1">
+      <CURCY>USD</CURCY>
+      <VSART>02</VSART>
+      <AUGRU_BEZ>EDI</AUGRU_BEZ>
+    </E1EDK01>
+    <E1EDK14 SEGMENT="1">
+      <QUALF>019</QUALF>
+      <ORGID>DFUE</ORGID>
+    </E1EDK14>
+    <E1EDK03 SEGMENT="1">
+      <IDDAT>002</IDDAT>
+    </E1EDK03>
+    <E1EDK03 SEGMENT="1">
+      <IDDAT>023</IDDAT>
+    </E1EDK03>
+    <E1EDKA1 SEGMENT="1">
+      <PARVW>AG</PARVW>
+      <NAME4>92:DLA</NAME4>
+      <ILNNR>DLA</ILNNR>
+    </E1EDKA1>
+    <E1EDK02 SEGMENT="1">
+      <QUALF>001</QUALF>
+      <BELNR>1902290</BELNR>
+      <DATUM>20180409</DATUM>
+    </E1EDK02>
+    <E1EDKT1 SEGMENT="1">
+      <TDID>Z010</TDID>
+      <TSSPRAS>EN</TSSPRAS>
+      <E1EDKT2 SEGMENT="1">
+        <TDLINE>DLA</TDLINE>
+        <TDFORMAT>/*</TDFORMAT>
+      </E1EDKT2>
+      <E1EDKT2 SEGMENT="1">
+        <TDLINE>12330</TDLINE>
+        <TDFORMAT>/*</TDFORMAT>
+      </E1EDKT2>
+      <E1EDKT2 SEGMENT="1">
+        <TDLINE>Santa</TDLINE>
+        <TDFORMAT>/*</TDFORMAT>
+      </E1EDKT2>
+    </E1EDKT1>
+    <E1EDKT1 SEGMENT="1">
+      <TDID>Z011</TDID>
+      <TSSPRAS>EN</TSSPRAS>
+    </E1EDKT1>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>10</POSEX>
+      <MENGE>480</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>10.6272</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271029130</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230208</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>10.6272</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271029130</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000708</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230208</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>20</POSEX>
+      <MENGE>480</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>10.6272</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271009323</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230296</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>10.6272</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271009323</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000543</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230296</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>30</POSEX>
+      <MENGE>140</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>9.295</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271025934</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230326</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>9.295</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271025934</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000551</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230326</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>40</POSEX>
+      <MENGE>160</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>10.6304</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271028324</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230562</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>10.6304</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271028324</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000552</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230562</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>50</POSEX>
+      <MENGE>800</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>15.269</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271017519</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230604</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>15.269</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271017519</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000536</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230604</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>60</POSEX>
+      <MENGE>160</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>10.6309</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271027129</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230640</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>10.6309</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271027129</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000545</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230640</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>70</POSEX>
+      <MENGE>240</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>12.8117</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271017533</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230646</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>12.8117</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271017533</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000537</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230646</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+    <E1EDP01 SEGMENT="1">
+      <POSEX>80</POSEX>
+      <MENGE>160</MENGE>
+      <MENEE>CT</MENEE>
+      <E1EDP05 SEGMENT="1">
+        <ALCKZ>+</ALCKZ>
+        <KSCHL>YPR0</KSCHL>
+        <KRATE>10.6304</KRATE>
+        <UPRBS>1</UPRBS>
+        <MEAUN>CT</MEAUN>
+      </E1EDP05>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>003</QUALF>
+        <IDTNR>00041271021097</IDTNR>
+      </E1EDP19>
+      <E1EDP19 SEGMENT="1">
+        <QUALF>001</QUALF>
+        <IDTNR>230946</IDTNR>
+      </E1EDP19>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z015</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>10.6304</TDLINE>
+          <TDFORMAT>>x</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+      <E1EDPT1 SEGMENT="1">
+        <TDID>Z020</TDID>
+        <TSSPRAS>EN</TSSPRAS>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>UK:00041271021097</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>PI:90000547</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+        <E1EDPT2 SEGMENT="1">
+          <TDLINE>IN:230946</TDLINE>
+          <TDFORMAT>/</TDFORMAT>
+        </E1EDPT2>
+      </E1EDPT1>
+    </E1EDP01>
+  </IDOC>
+</ZCORORDERS05>
